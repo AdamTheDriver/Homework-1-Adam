@@ -9,3 +9,5 @@
 **Robosuite**: An introduction to the robosuite robotics simulation framework. You can do this whenever, but make sure you get the Mujoco license early as it might take days to get approved.
 
 ### Once you are done, view **Homework_Tasks** to make sure you've completed everything.
+
+#### This repository was contributed to by Adam Howard and Branden Heng.
